@@ -1,0 +1,245 @@
+neighbourhood,latitude,longitude,room_type,price,minimum_nights,calculated_host_listings_count,availability_365,number_of_reviews_ltm
+Hammersmith and Fulham,51.49462,-0.22923,Hotel room,72,1,11,229,20
+Enfield,51.64553,-0.14404,Hotel room,99,1,5,356,2
+Enfield,51.64561,-0.14412,Hotel room,99,1,5,345,3
+Greenwich,51.48705,0.00172,Hotel room,68,1,1,313,92
+Hammersmith and Fulham,51.4904,-0.20803,Hotel room,119,3,13,332,1
+Hammersmith and Fulham,51.4904,-0.20658,Hotel room,119,7,13,322,4
+Hammersmith and Fulham,51.48912,-0.20816,Hotel room,119,2,13,269,2
+Hammersmith and Fulham,51.48893,-0.20615,Hotel room,146,3,13,303,4
+Hammersmith and Fulham,51.48827,-0.20736,Hotel room,174,3,13,315,3
+Hammersmith and Fulham,51.48828,-0.20767,Hotel room,174,3,13,310,2
+Hammersmith and Fulham,51.48852,-0.20601,Hotel room,174,3,13,339,5
+Hammersmith and Fulham,51.48833,-0.2072,Hotel room,119,4,13,253,0
+Hammersmith and Fulham,51.49045,-0.20593,Hotel room,170,3,13,341,5
+Hammersmith and Fulham,51.48846,-0.20762,Hotel room,179,3,13,0,1
+Hammersmith and Fulham,51.48736,-0.20752,Hotel room,210,3,13,1,3
+Hammersmith and Fulham,51.48882,-0.20807,Hotel room,274,4,13,300,1
+Enfield,51.64556,-0.14369,Hotel room,99,1,5,348,8
+Southwark,51.48615,-0.10779,Hotel room,140,1,7,330,37
+Southwark,51.4863,-0.1066,Hotel room,200,1,7,340,23
+Kensington and Chelsea,51.51022,-0.19724,Hotel room,129,1,4,308,18
+Kensington and Chelsea,51.49274,-0.16606,Hotel room,198,3,42,271,5
+Kensington and Chelsea,51.49273,-0.16416,Hotel room,205,3,42,276,0
+Kensington and Chelsea,51.51078,-0.19496,Hotel room,119,1,4,310,21
+Tower Hamlets,51.52661,-0.03617,Hotel room,59,1,4,0,2
+Westminster,51.5112,-0.11883,Hotel room,70,1,33,0,9
+Hackney,51.54747,-0.05635,Hotel room,139,1,2,362,18
+Hammersmith and Fulham,51.51075,-0.23159,Hotel room,31,1,4,350,23
+Hammersmith and Fulham,51.50953,-0.22972,Hotel room,31,1,4,353,21
+Tower Hamlets,51.52683,-0.03647,Hotel room,127,1,4,103,5
+Kensington and Chelsea,51.49177,-0.1658,Hotel room,205,3,42,294,3
+Kensington and Chelsea,51.49312,-0.16545,Hotel room,205,3,42,288,0
+Westminster,51.52092,-0.15545,Hotel room,807,3,55,44,5
+Newham,51.50772,0.01883,Hotel room,310,3,19,86,6
+Westminster,51.51446,-0.15052,Hotel room,525,2,55,313,14
+Enfield,51.64774,-0.08102,Hotel room,97,1,6,352,15
+Enfield,51.6456,-0.07942,Hotel room,72,1,6,351,9
+Croydon,51.38283,-0.08483,Hotel room,145,1,10,363,140
+Kensington and Chelsea,51.52155,-0.2101,Hotel room,743,2,55,107,0
+Croydon,51.38351,-0.08472,Hotel room,121,1,10,359,11
+Camden,51.53578,-0.18912,Hotel room,195,2,2,0,0
+Camden,51.53554,-0.18992,Hotel room,180,2,2,0,0
+Kensington and Chelsea,51.49303,-0.16442,Hotel room,255,3,165,86,0
+Enfield,51.6577,-0.08129,Hotel room,83,1,6,344,2
+Enfield,51.65825,-0.08078,Hotel room,83,1,6,349,1
+Enfield,51.65665,-0.08117,Hotel room,83,1,6,347,1
+Enfield,51.65618,-0.07973,Hotel room,83,1,6,348,3
+Kensington and Chelsea,51.49171,-0.16377,Hotel room,205,3,42,253,3
+Enfield,51.64556,-0.14369,Hotel room,99,1,5,352,0
+Kensington and Chelsea,51.49316,-0.16483,Hotel room,198,3,42,226,0
+Kensington and Chelsea,51.49299,-0.16443,Hotel room,255,3,165,359,2
+Newham,51.50778,0.02012,Hotel room,299,2,19,81,5
+Kensington and Chelsea,51.51917,-0.20488,Hotel room,591,3,55,338,4
+Kensington and Chelsea,51.49114,-0.16475,Hotel room,255,3,165,102,2
+Kensington and Chelsea,51.49311,-0.16379,Hotel room,255,3,165,84,0
+Kensington and Chelsea,51.4915,-0.1654,Hotel room,209,3,42,268,1
+Barnet,51.56911,-0.2185,Hotel room,25,3,3,0,0
+Islington,51.55346,-0.10815,Hotel room,50,2,1,0,0
+Kensington and Chelsea,51.49113,-0.16552,Hotel room,255,3,165,358,6
+Kensington and Chelsea,51.49119,-0.16484,Hotel room,255,3,165,364,3
+Kensington and Chelsea,51.49103,-0.16583,Hotel room,255,3,165,309,4
+Kensington and Chelsea,51.49113,-0.16569,Hotel room,315,3,165,77,0
+Kensington and Chelsea,51.4927,-0.16382,Hotel room,255,3,165,358,1
+Kensington and Chelsea,51.49315,-0.16578,Hotel room,255,3,165,348,5
+Kensington and Chelsea,51.49156,-0.16445,Hotel room,255,3,165,282,11
+Kensington and Chelsea,51.49312,-0.16443,Hotel room,255,3,165,364,3
+Kensington and Chelsea,51.49136,-0.16474,Hotel room,255,2,165,87,0
+Kensington and Chelsea,51.49323,-0.16361,Hotel room,205,3,42,263,1
+Barnet,51.57373,-0.20219,Hotel room,99,1,5,334,13
+Barnet,51.57432,-0.20097,Hotel room,111,1,5,251,2
+Barnet,51.57538,-0.20074,Hotel room,127,1,5,176,4
+Kensington and Chelsea,51.52329,-0.21053,Hotel room,743,2,55,359,0
+Hounslow,51.49687,-0.24626,Hotel room,120,1,2,0,1
+Kensington and Chelsea,51.49102,-0.16404,Hotel room,315,3,165,69,0
+Tower Hamlets,51.51894,-0.0714,Hotel room,150,1,3,256,97
+Islington,51.5303,-0.10086,Hotel room,74,1,3,50,3
+Kensington and Chelsea,51.49139,-0.16552,Hotel room,210,3,42,273,0
+Kensington and Chelsea,51.49195,-0.16426,Hotel room,255,3,165,361,6
+Kensington and Chelsea,51.49333,-0.16457,Hotel room,255,3,165,338,5
+Kensington and Chelsea,51.49301,-0.16368,Hotel room,315,3,165,365,1
+Kensington and Chelsea,51.49171,-0.16571,Hotel room,315,3,165,365,2
+Kensington and Chelsea,51.49168,-0.16591,Hotel room,255,3,165,365,2
+Kensington and Chelsea,51.49321,-0.16406,Hotel room,315,3,165,84,0
+Kensington and Chelsea,51.49284,-0.16356,Hotel room,315,3,165,365,2
+Kensington and Chelsea,51.49267,-0.16387,Hotel room,315,3,165,365,0
+Westminster,51.50581,-0.147,Hotel room,700,1,4,338,1
+Westminster,51.50377,-0.14688,Hotel room,770,1,4,335,2
+Westminster,51.5046,-0.1487,Hotel room,820,1,4,353,3
+Westminster,51.51661,-0.16427,Hotel room,436,2,55,85,0
+Westminster,51.50606,-0.14667,Hotel room,1395,1,4,365,0
+Tower Hamlets,51.516891,-0.072943,Hotel room,156,1,1,0,122
+Camden,51.52612,-0.11772,Hotel room,99,1,5,0,30
+Westminster,51.51095,-0.13261,Hotel room,82,1,4,19,68
+Westminster,51.51152,-0.13478,Hotel room,87,1,4,173,57
+Camden,51.52398,-0.11667,Hotel room,170,1,5,0,6
+Camden,51.52617,-0.11857,Hotel room,77,1,5,1,18
+Camden,51.52462,-0.11866,Hotel room,77,1,5,0,6
+Camden,51.52419,-0.11709,Hotel room,200,1,5,1,2
+Newham,51.50632,0.02554,Hotel room,119,1,1,0,0
+Kensington and Chelsea,51.52291,-0.20895,Hotel room,743,3,55,352,0
+Hammersmith and Fulham,51.49718,-0.22691,Hotel room,203,1,3,351,0
+Hammersmith and Fulham,51.49718,-0.22691,Hotel room,213,1,3,354,0
+Kensington and Chelsea,51.49324,-0.16548,Hotel room,195,7,42,272,0
+Hammersmith and Fulham,51.49718,-0.22691,Hotel room,193,1,3,274,1
+Islington,51.52993,-0.10275,Hotel room,74,1,3,30,13
+Enfield,51.65033,-0.0467,Hotel room,103,1,22,0,0
+Enfield,51.64826,-0.04551,Hotel room,87,1,22,0,0
+Enfield,51.64995,-0.04695,Hotel room,400,1,22,0,0
+Kensington and Chelsea,51.49153,-0.16385,Hotel room,220,3,42,284,1
+Westminster,51.49013,-0.14424,Hotel room,463,1,3,352,3
+Westminster,51.49227,-0.14429,Hotel room,453,1,3,352,0
+Westminster,51.49049,-0.14611,Hotel room,419,1,3,352,0
+Hammersmith and Fulham,51.47473,-0.18302,Hotel room,475,5,1,0,0
+Westminster,51.52445,-0.17535,Hotel room,99,1,3,0,0
+Enfield,51.6092,-0.05641,Hotel room,103,1,22,355,6
+Enfield,51.61124,-0.05496,Hotel room,92,1,22,348,3
+Enfield,51.61013,-0.05502,Hotel room,69,1,22,344,1
+Enfield,51.61074,-0.05705,Hotel room,93,1,22,350,0
+Tower Hamlets,51.51962,-0.07345,Hotel room,193,1,3,277,90
+Westminster,51.51433,-0.17944,Hotel room,263,1,55,347,23
+Westminster,51.51619,-0.18146,Hotel room,330,2,55,358,0
+Westminster,51.51606,-0.18031,Hotel room,330,2,55,0,0
+Westminster,51.51599,-0.18005,Hotel room,637,2,55,331,2
+Westminster,51.51622,-0.18009,Hotel room,678,2,55,311,5
+Westminster,51.51545,-0.18236,Hotel room,678,2,55,353,1
+Kensington and Chelsea,51.49136,-0.16581,Hotel room,255,3,165,351,3
+Kensington and Chelsea,51.49269,-0.16624,Hotel room,255,3,165,99,3
+Kensington and Chelsea,51.49329,-0.16412,Hotel room,255,3,165,75,2
+Kensington and Chelsea,51.49304,-0.16581,Hotel room,255,3,165,354,4
+Kensington and Chelsea,51.49089,-0.16629,Hotel room,315,2,165,92,0
+Kensington and Chelsea,51.49101,-0.16495,Hotel room,315,3,165,91,1
+Kensington and Chelsea,51.49262,-0.16637,Hotel room,315,3,165,351,6
+Kensington and Chelsea,51.49302,-0.1642,Hotel room,315,3,165,365,3
+Kensington and Chelsea,51.49305,-0.16581,Hotel room,315,3,165,365,0
+Camden,51.53602,-0.13964,Hotel room,46,1,1,204,62
+Hammersmith and Fulham,51.49335,-0.22449,Hotel room,39,1,5,198,13
+Hackney,51.52044,-0.08503,Hotel room,62,1,3,195,41
+Hackney,51.52044,-0.08503,Hotel room,229,1,3,59,5
+Hackney,51.52044,-0.08503,Hotel room,56,1,3,198,59
+Hackney,51.55208,-0.03022,Hotel room,100,2,1,0,0
+Southwark,51.45978,-0.08978,Hotel room,201,2,1,203,0
+Southwark,51.50288,-0.09171,Hotel room,49,1,2,185,56
+Southwark,51.50288,-0.09171,Hotel room,56,1,2,163,3
+Newham,51.53451,0.01839,Hotel room,75,2,1,0,0
+Kensington and Chelsea,51.49276,-0.16358,Hotel room,255,2,165,98,0
+Kensington and Chelsea,51.49343,-0.16407,Hotel room,255,3,165,365,1
+Kensington and Chelsea,51.4933,-0.16563,Hotel room,255,3,165,356,3
+Kensington and Chelsea,51.49314,-0.16574,Hotel room,255,3,165,352,8
+Kensington and Chelsea,51.49304,-0.16408,Hotel room,255,2,165,101,2
+Kensington and Chelsea,51.49326,-0.1654,Hotel room,255,3,165,319,7
+Kensington and Chelsea,51.49289,-0.16378,Hotel room,255,2,165,95,0
+Kensington and Chelsea,51.49174,-0.16579,Hotel room,255,2,165,69,2
+Kensington and Chelsea,51.49111,-0.16474,Hotel room,200,2,165,145,0
+Kensington and Chelsea,51.49328,-0.16565,Hotel room,200,2,165,145,0
+Kensington and Chelsea,51.49118,-0.16519,Hotel room,200,2,165,145,0
+Kensington and Chelsea,51.49321,-0.16526,Hotel room,200,2,165,145,0
+Kensington and Chelsea,51.49321,-0.16419,Hotel room,209,3,42,273,0
+Westminster,51.51433,-0.18151,Hotel room,330,2,55,340,4
+Westminster,51.51391,-0.17935,Hotel room,1490,2,55,344,0
+Westminster,51.51399,-0.17947,Hotel room,330,2,55,352,8
+Westminster,51.51402,-0.1814,Hotel room,305,2,55,351,1
+Westminster,51.51418,-0.17935,Hotel room,1490,3,55,365,5
+Westminster,51.51604,-0.18114,Hotel room,678,2,55,340,1
+Wandsworth,51.47968,-0.13229,Hotel room,226,10,52,5,4
+Kensington and Chelsea,51.49312,-0.16418,Hotel room,205,3,42,281,0
+Kensington and Chelsea,51.49111,-0.16389,Hotel room,205,3,42,286,0
+Hammersmith and Fulham,51.49335,-0.22449,Hotel room,41,1,5,207,22
+Tower Hamlets,51.52849,-0.02014,Hotel room,78,1,8,350,2
+Kensington and Chelsea,51.49352,-0.16447,Hotel room,198,3,42,272,0
+Westminster,51.51837,-0.18347,Hotel room,1490,2,55,358,0
+Ealing,51.50754,-0.27409,Hotel room,221,1,5,204,1
+Ealing,51.50687,-0.27361,Hotel room,212,1,5,204,4
+Kensington and Chelsea,51.49431,-0.18282,Hotel room,450,3,1,140,9
+Ealing,51.50752,-0.27398,Hotel room,221,1,5,204,5
+Ealing,51.50905,-0.27202,Hotel room,233,1,5,204,2
+Westminster,51.51013,-0.12194,Hotel room,672,1,4,357,63
+Ealing,51.50673,-0.27247,Hotel room,286,1,5,194,0
+Westminster,51.51007,-0.12167,Hotel room,579,1,4,357,204
+Camden,51.54029,-0.15354,Hotel room,166,5,1,0,0
+Kensington and Chelsea,51.49882,-0.20596,Hotel room,96,3,5,61,23
+Wandsworth,51.46436,-0.21375,Hotel room,268,1,5,314,2
+Wandsworth,51.46432,-0.21389,Hotel room,279,1,5,337,0
+Wandsworth,51.46432,-0.21389,Hotel room,279,1,5,328,0
+Wandsworth,51.46533,-0.2144,Hotel room,296,1,5,337,0
+Wandsworth,51.46432,-0.21389,Hotel room,296,1,5,328,1
+Westminster,51.51441,-0.19146,Hotel room,179,1,2,351,124
+Westminster,51.51329,-0.19064,Hotel room,190,1,2,349,79
+Westminster,51.49194,-0.14186,Hotel room,161,1,6,310,0
+Westminster,51.49201,-0.14205,Hotel room,169,1,6,322,10
+Westminster,51.49201,-0.14205,Hotel room,217,1,6,294,2
+Westminster,51.51895,-0.18953,Hotel room,163,2,10,172,3
+Westminster,51.512,-0.12771,Hotel room,130,2,1,0,0
+Westminster,51.51409,-0.19313,Hotel room,314,1,5,0,0
+Kensington and Chelsea,51.48945,-0.15613,Hotel room,367,1,5,0,0
+Kensington and Chelsea,51.48971,-0.15715,Hotel room,453,1,5,0,0
+Kensington and Chelsea,51.49193,-0.15815,Hotel room,539,1,5,0,0
+Kensington and Chelsea,51.48963,-0.15706,Hotel room,733,1,5,0,0
+Kensington and Chelsea,51.4911,-0.15852,Hotel room,733,1,5,0,0
+Camden,51.5504,-0.1901,Hotel room,182,1,3,340,7
+Camden,51.55062,-0.19055,Hotel room,212,1,3,260,0
+Lambeth,51.43883,-0.11153,Hotel room,35,2,1,0,0
+Westminster,51.49195,-0.14187,Hotel room,178,1,6,324,38
+Westminster,51.49195,-0.14187,Hotel room,233,1,6,282,3
+Westminster,51.49195,-0.14187,Hotel room,213,1,6,314,27
+Kensington and Chelsea,51.49312,-0.16435,Hotel room,205,3,42,283,0
+Camden,51.55205,-0.19112,Hotel room,209,1,4,306,26
+Camden,51.55019,-0.1924,Hotel room,186,1,4,318,9
+Camden,51.55076,-0.19093,Hotel room,178,1,4,315,37
+Camden,51.55188,-0.19293,Hotel room,199,1,4,310,2
+Richmond upon Thames,51.45096,-0.29667,Hotel room,240,1,4,346,1
+Kensington and Chelsea,51.49213,-0.16434,Hotel room,198,3,42,284,2
+Kensington and Chelsea,51.49089,-0.16584,Hotel room,210,3,42,243,1
+Westminster,51.51174,-0.12757,Hotel room,415,7,3,338,0
+Westminster,51.52424,-0.17339,Hotel room,69,1,3,0,0
+Westminster,51.51231,-0.19295,Hotel room,322,1,5,0,0
+Westminster,51.51443,-0.19172,Hotel room,307,1,5,0,0
+Westminster,51.51415,-0.19208,Hotel room,330,1,5,0,0
+Westminster,51.51268,-0.19369,Hotel room,329,1,5,0,0
+Westminster,51.51892,-0.14112,Hotel room,111,2,1,0,0
+Camden,51.54962,-0.15544,Hotel room,58,1,1,0,0
+Hackney,51.56588,-0.10213,Hotel room,100,1,6,344,7
+Hackney,51.56588,-0.10213,Hotel room,149,1,6,328,2
+Hackney,51.56588,-0.10213,Hotel room,151,1,6,327,1
+Hackney,51.56588,-0.10213,Hotel room,190,1,6,348,8
+Hackney,51.56588,-0.10213,Hotel room,270,1,6,347,5
+Hackney,51.56591,-0.1022,Hotel room,367,1,6,292,1
+Hammersmith and Fulham,51.49335,-0.22449,Hotel room,160,1,5,56,1
+Hammersmith and Fulham,51.49335,-0.22449,Hotel room,44,1,5,205,2
+Hammersmith and Fulham,51.49335,-0.22449,Hotel room,43,1,5,111,1
+Kensington and Chelsea,51.4919,-0.18812,Hotel room,0,1,1,0,0
+Westminster,51.51181,-0.17742,Hotel room,0,1,1,0,0
+Westminster,51.49033,-0.14031,Hotel room,0,1,2,0,5
+Southwark,51.50044,-0.09284,Hotel room,0,1,1,0,12
+Wandsworth,51.46568,-0.156,Hotel room,0,1,1,0,27
+Westminster,51.52037,-0.17035,Hotel room,0,1,1,0,0
+Westminster,51.48898,-0.14681,Hotel room,0,1,1,0,0
+Southwark,51.503819,-0.094795,Hotel room,0,1,1,0,38
+Kensington and Chelsea,51.49064,-0.19367,Hotel room,0,1,1,0,0
+Kensington and Chelsea,51.50182,-0.18679,Hotel room,0,1,1,0,0
+Westminster,51.51328,-0.193,Hotel room,0,1,1,0,0
+Southwark,51.505835275767154,-0.0990022653443623,Hotel room,0,1,1,0,0
+Hackney,51.52521330630471,-0.0797599068941464,Hotel room,0,1,1,0,0
+Westminster,51.48962,-0.13916,Hotel room,779,1,7,343,0
+Hackney,51.56337,-0.10182,Hotel room,190,1,4,329,16
+Richmond upon Thames,51.45692,-0.30576,Hotel room,59,1,5,0,0
